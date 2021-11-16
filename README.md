@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sewmini+Shehara;SLIIT+Undergraduate)](https://git.io/typing-svg)
 
 
-<h3 align="left"> 📱 Connect with me</h3>
-<p align="left">
-<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
-<a href="https://www.linkedin.com/in/sewmini-shehara-1b8381224/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
+<p><b>Connect with me on</b>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/sewmini-shehara-1b8381224/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="sewminishehara1018@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.linkedin.com/in/sewmini-shehara-1b8381224/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<br>
 
 
 
