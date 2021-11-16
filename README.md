@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="left"> 📱 Connect with me</h3>
 <p align="left">
-<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
-<a href="https://www.facebook.com/dumidukb/" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="sew#4110" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/sewmini-shehara-1b8381224/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
