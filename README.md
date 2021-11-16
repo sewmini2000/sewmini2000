@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="sewminishehara1018@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://www.linkedin.com/in/sewmini-shehara-1b8381224/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 <br>
 
 
