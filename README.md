@@ -14,12 +14,29 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sewmini+Shehara;SLIIT+Undergraduate)](https://git.io/typing-svg)
 
 
-
 <h3 align="left"> 📱 Connect with me</h3>
 <p align="left">
-<a href="sew#4110" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/sewmini-shehara-1b8381224/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+
+
+
+## 📊 My Github Stats
+  <br/>
+  
+![Sewmini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sewmini2000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+![Sewmini's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sewmini2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+##
+
+
+
 
 ## Languages and Tools:
   
